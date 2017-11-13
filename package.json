@@ -1,0 +1,19 @@
+{
+  "name": "vocabulary-api",
+  "version": "1.0.0",
+  "description": "API for managing vocabularies",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+  },
+  "author": "Selim Dincer",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "config": "^1.25.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.4"
+  },
+  "devDependencies": {
+  }
+}

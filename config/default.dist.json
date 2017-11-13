@@ -1,0 +1,4 @@
+{
+  "db": "mongodb://localhost:27017/vocabulary",
+  "port": 3000
+}

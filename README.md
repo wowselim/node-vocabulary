@@ -7,7 +7,7 @@
 ## Routes
 - `GET /api/vocabulary` lists all vocabularies
 - `GET /api/task/:id` returns vocabulary with specified id
-- `DELETE /api/task/:id` deleted vocabulary with specified id
+- `DELETE /api/task/:id` deletes vocabulary with specified id
 - `PATCH /api/task/:id` updates vocabulary with specified id
 
 ## Setup
